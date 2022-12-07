@@ -32,12 +32,15 @@ node js
 
 ```
 npm i
+npm i inquirer
+npm i mysql
+npm i console.table
 ```
 
 ## Usage
 
 ```
-Openmy sql on command line
+Open mysql on command line
 Enter your mysql password
 quit mysql
 npm run seed
