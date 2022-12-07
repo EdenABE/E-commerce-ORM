@@ -32,16 +32,14 @@ node js
 
 ```
 npm i
-npm i inquirer
-npm i mysql
-npm i console.table
 ```
 
 ## Usage
 
 ```
-Open mysql on command line
+Open mysql on command line 'mysql -u root -p'
 Enter your mysql password
+Use the schema.sql file in the db folder to create your database using MySQL shell commands 'SOURCE db/schema.sql'
 quit mysql
 npm run seed
 node server.js
@@ -49,4 +47,9 @@ node server.js
 
 ## MOC
 
-Here is the link to the application's backend video:
+Here is the link to the application's backend videos:
+GET and DELETE route:
+https://drive.google.com/file/d/1SY7Gk2GwbvzFom_6NC_ZJ-6iz0SJnw50/view
+
+POST and PUT route:
+https://drive.google.com/file/d/1926fUa5IseEhylc-uDRztxusS8F9AkjO/view
