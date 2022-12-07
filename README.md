@@ -45,7 +45,7 @@ npm run seed
 node server.js
 ```
 
-## MOC
+## Videos
 
 Here is the link to the application's backend videos:
 GET and DELETE route:
